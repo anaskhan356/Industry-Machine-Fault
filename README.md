@@ -59,9 +59,3 @@ This repository implements a full-stack architecture combining a **Random Forest
 * **Machine Learning / Data Science:** Python, Jupyter Notebook, Scikit-Learn, Pandas, NumPy, Joblib
 * **Frontend SCADA UI:** HTML5, Tailwind CSS, JavaScript (ES6+), Chart.js
 * **Data Parsing & Audio:** SheetJS (XLSX Parser), PapaParse, Web Audio API
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
